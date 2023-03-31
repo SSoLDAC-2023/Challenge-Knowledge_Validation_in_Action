@@ -28,9 +28,9 @@ Specifically in context of the built environment, we focus on checking the prese
 
 1. The approach to generate SHACL shapes can be similar to several tools that help users to create a JSON schema starting from a piece of available JSON (example) data:
 
-- [extendsclass.com/json-schema-validator.html](https://extendsclass.com/json-schema-validator.html) 
-- [github.com/krg7880/json-schema-generator](https://github.com/krg7880/json-schema-generator) 
-- [github.com/simplymequeeny/json-string-schema-generator](https://github.com/simplymequeeny/json-string-schema-generator)
+    - [extendsclass.com/json-schema-validator.html](https://extendsclass.com/json-schema-validator.html) 
+    - [github.com/krg7880/json-schema-generator](https://github.com/krg7880/json-schema-generator) 
+    - [github.com/simplymequeeny/json-string-schema-generator](https://github.com/simplymequeeny/json-string-schema-generator)
 
 2. A first step of formalizing knowledge is the compaction of information into qualified rules, which can be done using the RASE framework. RASE says knowledge is a hierarchy of objectives containing objectives and metrics classified as Requirement/Register/Record, Application, Selection, or Exception. Each of these is a predicate-relationship with a target. A Semantic Data subject is an Applicability it is own right.
 
@@ -40,6 +40,6 @@ Specifically in context of the built environment, we focus on checking the prese
 
 ## Tools Needed
 
-- Code editor
-- SHACL validation engine
-- Semantic platform (triple store / LDP / …)
+    - Code editor
+    - SHACL validation engine
+    - Semantic platform (triple store / LDP / …)
