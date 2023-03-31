@@ -1,8 +1,8 @@
 # Challenge: The essence of (digital) Knowledge / Knowledge Validation in Action
 
 ## Champions
-- Nicholas Nisbet, AEC3 UK Ltd (UK)
-- Mathias Bonduel, Neanex (BE)
+    - Nicholas Nisbet, AEC3 UK Ltd (UK)
+    - Mathias Bonduel, Neanex (BE)
 
 ## Challenge description
 The starting point of this challenge is a general contemplation on the essence of “knowledge”, which has occupied philosophers for centuries: what is knowledge, can something ever truly be “known”? E.g. Plato considered knowledge “justified true belief”, consisting of either Facts or Techniques, while Popper modelled scientific knowledge as being falsifiable. Both terms “belief” and “falsifiable” indicate an acceptance that there is a certain degree of uncertainty to knowledge.
@@ -16,9 +16,9 @@ Previous research has shown that SHACL is a valid approach towards validation of
 Specifically in context of the built environment, we focus on checking the presence or absence of objects in a building, on the granularity level of rooms. This may relate to regulations as well as to client requirements. Information needed may include (but is not limited to) the room type and the requirements to be checked, e.g. is there a minimal amount of fire extinguishers in a room, or is the maximum amount of seats for a given area not exceeded?
 
 ## Challenger research questions
-- Can you build an application interface that helps people to kickstart the creation of the SHACL shapes starting from example data? Would it help to also have example datasets used by the tool that includes some “wrong” graph patterns?
-- As an example scenario related to building data, you may base upon the above-mentioned allocation of objects in spaces: can we formalise regulations or client requirements regarding which rooms contain which objects, and which objects are in which rooms? Would topological statements be sufficient, or is a more spatial approach necessary (e.g. including cartesian coordinates of an object)?
-- Finally, can you critically reflect on how the outcome (i.e., shapes, datasets or interfaces) demonstrates one (or more) of the above-mentioned philosophical theories about (non-)knowledge and uncertainty?
+    - Can you build an application interface that helps people to kickstart the creation of the SHACL shapes starting from example data? Would it help to also have example datasets used by the tool that includes some “wrong” graph patterns?
+    - As an example scenario related to building data, you may base upon the above-mentioned allocation of objects in spaces: can we formalise regulations or client requirements regarding which rooms contain which objects, and which objects are in which rooms? Would topological statements be sufficient, or is a more spatial approach necessary (e.g. including cartesian coordinates of an object)?
+    - Finally, can you critically reflect on how the outcome (i.e., shapes, datasets or interfaces) demonstrates one (or more) of the above-mentioned philosophical theories about (non-)knowledge and uncertainty?
 
 ## Datasets
 - Building datasets in TTL: duplex, schependomlaan, …
@@ -39,6 +39,7 @@ Specifically in context of the built environment, we focus on checking the prese
     - NISBET, Nicholas, et al. Presentations of rase knowledge mark-up. In: EC3 Conference 2022. University of Turin, 2022. p. 0-0.
 
 ## Tools Needed
+
     - Code editor
     - SHACL validation engine
     - Semantic platform (triple store / LDP / …)
