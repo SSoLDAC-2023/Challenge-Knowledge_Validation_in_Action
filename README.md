@@ -34,12 +34,11 @@ Specifically in context of the built environment, we focus on checking the prese
 
 2. A first step of formalizing knowledge is the compaction of information into qualified rules, which can be done using the RASE framework. RASE says knowledge is a hierarchy of objectives containing objectives and metrics classified as Requirement/Register/Record, Application, Selection, or Exception. Each of these is a predicate-relationship with a target. A Semantic Data subject is an Applicability it is own right.
 
-- [www.aec3.eu/require1/Help_en-GB/index.html](http://www.aec3.eu/require1/Help_en-GB/index.html)
-- HJELSETH, Eilif; NISBET, Nick. Capturing normative constraints by use of the semantic mark-up RASE methodology. In: Proceedings of CIB W78-W102 Conference. 2011. p. 1-10.
-- NISBET, Nicholas, et al. Presentations of rase knowledge mark-up. In: EC3 Conference 2022. University of Turin, 2022. p. 0-0.
+    - [www.aec3.eu/require1/Help_en-GB/index.html](http://www.aec3.eu/require1/Help_en-GB/index.html)
+    - HJELSETH, Eilif; NISBET, Nick. Capturing normative constraints by use of the semantic mark-up RASE methodology. In: Proceedings of CIB W78-W102 Conference. 2011. p. 1-10.
+    - NISBET, Nicholas, et al. Presentations of rase knowledge mark-up. In: EC3 Conference 2022. University of Turin, 2022. p. 0-0.
 
 ## Tools Needed
-
     - Code editor
     - SHACL validation engine
     - Semantic platform (triple store / LDP / …)
