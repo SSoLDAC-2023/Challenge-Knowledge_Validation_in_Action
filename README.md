@@ -38,6 +38,6 @@ Additionally, participants are encouraged to take a critical reflection on digit
     - NISBET, Nicholas, et al. Presentations of rase knowledge mark-up. In: EC3 Conference 2022. University of Turin, 2022. p. 0-0.
 
 ## Tools Needed
-    - Code editor
-    - SHACL validation engine
-    - Semantic platform (triple store / LDP / …)
+- Code editor
+- SHACL validation engine
+- Semantic platform (triple store / LDP / …)
