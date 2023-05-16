@@ -1,4 +1,4 @@
-# Challenge: The essence of (digital) Knowledge / Knowledge Validation in Action
+# Challenge: Knowledge Validation in Action
 
 ## Champions
 - Nicholas Nisbet, AEC3 UK Ltd (UK)
