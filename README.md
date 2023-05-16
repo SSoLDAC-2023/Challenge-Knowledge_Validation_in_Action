@@ -20,8 +20,8 @@ Additionally, participants are encouraged to take a critical reflection on digit
 - Finally, can you critically reflect on how the outcome (i.e., shapes, datasets or interfaces) demonstrates one (or more) of the above-mentioned philosophical theories about (non-)knowledge and uncertainty?
 
 ## Datasets
-- Building datasets in TTL: duplex, schependomlaan, …
-- Generate your own dataset
+- Building datasets in TTL: [duplex](https://raw.githubusercontent.com/SSoLDAC-2023/Challenge-Knowledge_Validation_in_Action/main/duplex.ttl), [Schependomlaan](https://github.com/buildingSMART/Sample-Test-Files/tree/master/IFC%202x3/Schependomlaan), …
+- Generate your own dataset (convert with the [IFCtoLBD converter](https://github.com/jyrkioraskari/IFCtoLBD/releases/tag/2.41.0))
 
 ## Supplementary Resources
 
