@@ -37,6 +37,11 @@ Additionally, participants are encouraged to take a critical reflection on digit
     - HJELSETH, Eilif; NISBET, Nick. Capturing normative constraints by use of the semantic mark-up RASE methodology. In: Proceedings of CIB W78-W102 Conference. 2011. p. 1-10.
     - NISBET, Nicholas, et al. Presentations of rase knowledge mark-up. In: EC3 Conference 2022. University of Turin, 2022. p. 0-0.
 
+3. [Semantic BIM Zotero bibliography](https://www.zotero.org/groups/3007408/semantic_bim/library) by the ACCORD project (856 items), in particular:
+
+    - [RASE](https://www.zotero.org/groups/3007408/semantic_bim/tags/Requirement%2C%20Applies%2C%20Selection%2C%20Exception%20(RASE)) (13 items)
+    - [SHACL](https://www.zotero.org/groups/3007408/semantic_bim/tags/Shapes%20Constraint%20Language%20(SHACL)) (16 items)
+
 ## Tools Needed
 - Code editor
 - SHACL validation engine
